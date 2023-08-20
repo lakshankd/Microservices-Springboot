@@ -16,6 +16,7 @@
     <module>order-service</module>
     <module>inventory-service</module>
       <module>discovery-server</module>
+    <module>api-gateway</module>
   </modules>
   <properties>
     <spring-cloud.version>2022.0.4</spring-cloud.version>
